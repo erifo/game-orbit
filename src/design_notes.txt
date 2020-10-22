@@ -1,0 +1,6 @@
+--- Map Legend ---
+[ ] Empty Floor
+[#] Spiked Cluster
+[o] Bubble Start
+[@] Bubble Goal
+[<,>,A,V] Spike Launcher(L,R,U,D)
